@@ -1,5 +1,5 @@
 {
-  "name": "harmony_clock",
+  "name": "HarmonyClock",
   "version": "0.1.0",
   "description": "test",
   "main": "main.js",
@@ -18,7 +18,8 @@
   "homepage": "https://github.com/ykks2uai/HarmonyClock#readme",
   "devDependencies": {
     "asar": "^0.10.0",
+    "electron-builder": "^2.8.6",
     "electron-packager": "^5.2.1",
-    "electron-prebuilt": "^0.36.8"
+    "electron-prebuilt": "^0.36.10"
   }
 }

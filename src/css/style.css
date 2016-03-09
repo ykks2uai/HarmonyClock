@@ -1,0 +1,16 @@
+
+body {
+  font-family: "Migu 1M", "メイリオ";
+
+  background-color: rgba(24, 24, 24, 0.6);
+  -webkit-app-region: drag;
+  -webkit-user-select: none;
+
+}
+
+
+div {
+  text-align: center;
+  font-size: 20px;
+  color: #FFF;
+}
